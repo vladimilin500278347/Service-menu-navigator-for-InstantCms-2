@@ -4,7 +4,7 @@
 [Автор виджета](http://instantcms.ru/users/12494 "Автор виджета")
 [Страница в каталоге дополнений](http://addons.instantcms.ru/addons/menunavservice.html "Страница в каталоге дополнений")
 
-[![](https://github.com/timtrella/menunavservice/blob/main/icon.jpg)](http://github.com/timtrella/menunavservice/blob/main/icon.jpg)
+[![](https://github.com/vladimilin500278347/Service-menu-navigator-for-InstantCms-2/blob/main/icon.jpg)](https://github.com/vladimilin500278347/Service-menu-navigator-for-InstantCms-2/blob/main/icon.jpg)
 
 **Виджет выводит удобное меню с якорями.**
 Есть настройки внешнего вида, можно указать цвет, тень.

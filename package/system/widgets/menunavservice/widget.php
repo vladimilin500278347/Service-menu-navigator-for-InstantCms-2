@@ -3,8 +3,8 @@
 class widgetMenunavservice extends cmsWidget
 {
 
-    public function run ()
-    {
-        return [];
-    }
+	public function run ()
+	{
+		return [ ];
+	}
 }
